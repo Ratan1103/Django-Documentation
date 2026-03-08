@@ -31,6 +31,7 @@ This repository contains structured Markdown documentation covering Django conce
 | # | Topic | Description | File |
 |---|-------|-------------|------|
 | 01 | **Static Files** | `STATIC_URL`, `STATICFILES_DIRS`, `STATIC_ROOT` | [Static\_Files\_settings.md](./Static_Files_settings.md) |
+| 02 | **Initial Setup** | `Virtaul Env`,`Project and App setup` | [Initail\_Setup.md](./Initial_Setup.md) | 
 
 > 💡 More topics will be added as the repository grows. Each file includes its own Table of Contents for in-file navigation.
 
