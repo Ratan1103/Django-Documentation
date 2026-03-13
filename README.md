@@ -34,6 +34,8 @@ This repository contains structured Markdown documentation covering Django conce
 | 02 | **Static Files** | `STATIC_URL`, `STATICFILES_DIRS`, `STATIC_ROOT` | [Static\_Files\_settings.md](./Static_Files_settings.md) |
 | 03 | **Custom Models** | `Fiels`, `Admin Register` | [Models.md](./Models.md) |
 | 04 | **Built in Models** | `AbstractUser`, `AbstractBaseUser`, `BaseManager` | [BuiltIn\_Models.md](./BuiltIn_Models.md) |
+| 05 | **Serializers** | `Meta` | [Serializer.md](./Serializer.md) |
+
 
 
 > 💡 More topics will be added as the repository grows. Each file includes its own Table of Contents for in-file navigation.
